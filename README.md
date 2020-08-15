@@ -37,7 +37,7 @@ ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
 
 Examples:
 
-<img src="https://raw.githubusercontent.com/titu1994/Neural_Style_Transfer/master/images/inputs/content/blue-moon-lake.jpg" width=49% height=300 alt="blue moon lake"> <img src="https://raw.githubusercontent.com/titu1994/Neural_Style_Transfer/master/images/inputs/style/starry_night.jpg" width=49% height=300 alt="starry night">
+<img src="https://github.com/jojo96/exceldraw/blob/master/srt.jpg" width=49% height=300 alt="blue moon lake"> <img src="https://github.com/jojo96/exceldraw/blob/master/srtexcel.jpg" width=49% height=300 alt="starry night">
 
 ## Licensing <a name="Licensing"></a>
 
