@@ -37,7 +37,9 @@ ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
 
 Examples:
 
-<img src="https://github.com/jojo96/exceldraw/blob/master/srt.jpg" width=49% height=300 alt="blue moon lake"> <img src="https://github.com/jojo96/exceldraw/blob/master/srtexcel.jpg" width=49% height=300 alt="starry night">
+<img src="https://github.com/jojo96/exceldraw/blob/master/srt.jpg" width=49% height=600 alt="Normal"> <img src="https://github.com/jojo96/exceldraw/blob/master/srtexcel.jpg" width=49% height=600 alt="Excel">
+
+Left Image is the input image and the right image is the drawing on Excel.
 
 ## Licensing <a name="Licensing"></a>
 
