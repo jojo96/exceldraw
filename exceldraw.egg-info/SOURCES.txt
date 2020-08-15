@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+exceldraw/__init__.py
+exceldraw/drawex.py
+exceldraw/edraw.py
+exceldraw.egg-info/PKG-INFO
+exceldraw.egg-info/SOURCES.txt
+exceldraw.egg-info/dependency_links.txt
+exceldraw.egg-info/not-zip-safe
+exceldraw.egg-info/top_level.txt
