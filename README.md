@@ -4,7 +4,8 @@
 
 1. [Installation](#installation)
 2. [Motivation](#motivation)
-3. [Licensing](#licensing)
+3. [Example](#example)
+4. [Licensing](#licensing)
 
 ## Installation <a name="installation"></a>
 The repository contains a zipped file of my Python package excel draw and should be installed via pip.<br/>
@@ -14,6 +15,19 @@ Instalation procedure: pip install exceldraw
 The package is intended as a simple drawing tool.<br/>
 The user will upload an image. The image has to be a colored image(preferably a headshot). The image should have a nice contrast for proper output.<br/>
 The package contains the function excelDraw() <br/>
+
+## Example <a name="Example"></a>
+This is the way to run the module:
+
+#import the module
+import exceldraw
+from exceldraw import edraw
+csv1,csv2 = edraw.excelDraw()#This would prompt a dialog box and you should select the image
+dd.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\dds.csv')
+ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
+#'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\' is the output directory
+#In the output directory, you will have two excel file containing the images.
+
 
 ## Licensing <a name="Licensing"></a>
 
