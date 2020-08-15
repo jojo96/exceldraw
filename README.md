@@ -21,11 +21,17 @@ This is the way to run the module:
 
 #import the module
 import exceldraw
+
 from exceldraw import edraw
+
 csv1,csv2 = edraw.excelDraw()#This would prompt a dialog box and you should select the image
+
 dd.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\dds.csv')
+
 ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
+
 #'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\' is the output directory
+
 #In the output directory, you will have two excel file containing the images.
 
 
