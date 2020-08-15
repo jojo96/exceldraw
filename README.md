@@ -19,6 +19,8 @@ The package contains the function excelDraw() <br/>
 ## Example <a name="Example"></a>
 This is the way to run the module:
 
+
+"""
 #import the module
 import exceldraw
 
@@ -33,9 +35,14 @@ ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
 #'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\' is the output directory
 
 #In the output directory, you will have two excel file containing the images.
-
+"""
 
 Examples:
+
+<img src="https://github.com/jojo96/exceldraw/blob/master/fed.jpg" width=49% height=600 alt="Normal"> <img src="https://github.com/jojo96/exceldraw/blob/master/rfexcel.jpg" width=49% height=600 alt="Excel">
+
+Left Image is the input image and the right image is the drawing on Excel.
+
 
 <img src="https://github.com/jojo96/exceldraw/blob/master/srt.jpg" width=49% height=600 alt="Normal"> <img src="https://github.com/jojo96/exceldraw/blob/master/srtexcel.jpg" width=49% height=600 alt="Excel">
 
