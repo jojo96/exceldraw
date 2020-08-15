@@ -35,6 +35,10 @@ ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
 #In the output directory, you will have two excel file containing the images.
 
 
+Examples:
+
+<img src="https://raw.githubusercontent.com/titu1994/Neural_Style_Transfer/master/images/inputs/content/blue-moon-lake.jpg" width=49% height=300 alt="blue moon lake"> <img src="https://raw.githubusercontent.com/titu1994/Neural_Style_Transfer/master/images/inputs/style/starry_night.jpg" width=49% height=300 alt="starry night">
+
 ## Licensing <a name="Licensing"></a>
 
 Copyright <2020><br/> Ujjayanta Bhaumik <br/>
