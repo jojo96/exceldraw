@@ -10,6 +10,7 @@
 ## Installation <a name="installation"></a>
 The repository contains a zipped file of my Python package excel draw and should be installed via pip.<br/>
 Instalation procedure: pip install exceldraw
+
 Website: https://pypi.org/project/exceldraw/#description
 
 ## Motivation <a name="Motivation"></a>
