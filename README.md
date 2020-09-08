@@ -1,5 +1,7 @@
 # exceldraw
 
+A library designed in python to convert images into drawings in Excel using 0s and 1s.
+To install: pip install exceldraw
 ### Table of Contents
 
 1. [Installation](#installation)
