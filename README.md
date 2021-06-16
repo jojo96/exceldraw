@@ -26,15 +26,16 @@ This is the way to run the module:
 
 """
 #import the module
-import exceldraw
 
-from exceldraw import edraw
+    import exceldraw
 
-csv1,csv2 = edraw.excelDraw()#This would prompt a dialog box and you should select the image
+    from exceldraw import edraw
 
-dd.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\dds.csv')
+    csv1,csv2 = edraw.excelDraw()#This would prompt a dialog box and you should select the image
 
-ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
+    dd.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\dds.csv')
+
+    ee.to_csv(r'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\eds.csv')
 
 #'C:\Users\admin\Desktop\Computational Neuroscience\dist_alx\' is the output directory
 
